@@ -1,5 +1,9 @@
-print("Hello World") 
-print("Hello\ World")
-print("Hello World \nAm I software dev yet")
-print()
-print("Is this thing on?")
+print("Hello. \nWorld.") 
+print("Am I software dev yet?",end=" ")
+print("This","is","very","confusing.", sep="-")
+
+
+print("Programming", "Essentials", "in")
+print("Python")
+print("Programming", "Essentials",sep="***")
+print("in","Python",sep="...")
