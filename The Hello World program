@@ -5,5 +5,7 @@ print("This","is","very","confusing.", sep="-")
 
 print("Programming", "Essentials", "in")
 print("Python")
-print("Programming", "Essentials",sep="***")
-print("in","Python",sep="...")
+print("Programming", "Essentials","in",sep="***",end="...")
+print("Python.",)
+
+print(0o123)
