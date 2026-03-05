@@ -40,6 +40,15 @@ print(f"I am running a half marathon which is {distance}km")
 
 #Boolean (funny name) - May be used in If statements
 
-lil_bitch = True
+Tima_best = False
 
-print(f"Is patrick a lil bitch? {lil_bitch}")
+print(f"Is tima the best cat? {Tima_best}")
+
+# using if statements and booleans
+
+if Tima_best: 
+    print("Tima is the cutest best cat")
+
+else:
+    print("Tima is a bad cat")
+
